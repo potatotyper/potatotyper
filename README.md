@@ -5,13 +5,13 @@ Currently **teaching and studying** Computer Science at **UBC** and building per
 ## 💼 What I've Been Up To
 
 **SAP — Data Visualization Container Team** *(Sep 2025 - Present)*
-Working on the Data Viz Container, specifically loading and caching. Cut load times by 42% and improved private model deletion by 58%. Fixed SQL leaks across 60% of our workflows.
+Working on the Data Viz Container, specifically loading and caching. Cut load times by **42%** and improved private model deletion by **58%**. Fixed SQL leaks across **60%** of our workflows.
 
 **UBC — Lead TA for CPSC 213** *(Jan 2025 - Present)*
-Teaching systems programming (C, assembly, multithreading) to 400+ students. Built automation scripts in Bash/Python for grading and misconduct detection, and created auto-graded assignments using Docker.
+Teaching **low-level programming** (C, assembly, multithreading) to 400+ students. Built automation scripts in Bash/Python for grading and misconduct detection, and created auto-graded assignments using Docker.
 
 **Vidio — Discovery Page Team** *(May 2024 - Aug 2024)*
-Built tooling to automate localization between Figma and Rails i18n (saved 2hrs/week), and created a GCP tool for batch media uploads from Drive to Cloud Storage (saved 3hrs/week).
+Built tooling to automate localization between Figma and Rails i18n (saved **2hrs/week**), and created a GCP tool for batch media uploads from Drive to Cloud Storage (saved **3hrs/week**).
 
 ## 🎮 Minecraft Mods
 
