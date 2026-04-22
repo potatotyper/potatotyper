@@ -5,7 +5,7 @@ Currently **teaching and studying** Computer Science at **UBC** and building per
 ## 💼 What I've Been Up To
 
 **SAP — Data Visualization Container Team** *(Sep 2025 - Present)*
-Working on the Data Viz Container, specifically loading and caching. Cut load times by **42%** and improved private model deletion by **58%**. Fixed SQL leaks across **60%** of our workflows.
+Working on loading and caching. Cut load times by **42%** and improved private model deletion by **58%**. Fixed SQL leaks across **60%** of our workflows.
 
 **UBC — Lead TA for CPSC 213** *(Jan 2025 - Present)*
 Teaching **low-level programming** (C, assembly, multithreading) to 400+ students. Built automation scripts in Bash/Python for grading and misconduct detection, and created auto-graded assignments using Docker.
