@@ -1,6 +1,6 @@
 # Hello! I'm a CS TA & Software Engineer
 
-Currently **teaching and studying** Computer Science at **UBC** and building performant systems at **SAP**. When I'm not coding or teaching low-level programming, you'll probably find me building Minecraft mods or on my SMP server (dm me on linkedin to join).
+Currently **teaching and studying** Computer Science at **UBC** and building performant systems at **SAP**. When I'm not coding or teaching low-level programming, you'll probably find me building Minecraft mods (Check out my [modrinth page](https://modrinth.com/user/potatotyper)) or on my SMP server (dm me on linkedin to join).
 
 ## 💼 What I've Been Up To
 
