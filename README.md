@@ -15,7 +15,7 @@ Built tooling to automate localization between Figma and Rails i18n (saved **2hr
 
 ## 🎮 Minecraft Mods
 
-I love playing Minecraft and occasionally build server-side Fabric mods:
+I love playing Minecraft and occasionally build server-side Fabric mods [modrinth page](https://modrinth.com/user/potatotyper):
 
 **[Minecraft Street View](https://github.com/potatotyper/Minecraft-Street-View)** — Maps and Street View, but for Minecraft. In Progress.
 
