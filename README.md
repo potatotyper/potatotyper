@@ -13,7 +13,7 @@ Teaching **low-level programming** (C, assembly, multithreading) to 400+ student
 **Vidio — Discovery Page Team** *(May 2024 - Aug 2024)*
 Built tooling to automate localization between Figma and Rails i18n (saved **2hrs/week**), and created a GCP tool for batch media uploads from Drive to Cloud Storage (saved **3hrs/week**).
 
-** Check out my projects and more demos here [personal site]([potatotyper.page](https://potatotyper.page/professional)) **
+** Check out my projects and more demos here ** [potatotyper.page](https://potatotyper.page/professional)
 
 ## 🎮 Minecraft Mods
 
