@@ -7,7 +7,7 @@ Currently **teaching and studying** Computer Science at **UBC** and building per
 **SAP — Data Visualization Container Team** *(Sep 2025 - Present)*
 Working on loading and caching. Cut load times up to **42%** and save times up to **23%**. Fixed SQL database leaks across **60%** of team-owned workflows.
 
-**UBC — Lead TA for CPSC 213** *(Jan 2025 - Present)*
+**UBC — Head TA for CPSC 213** *(Jan 2025 - Present)*
 Teaching **low-level programming** (C, assembly, multithreading) to 400+ students. Built automation scripts in Bash/Python for grading and misconduct detection, and created auto-graded assignments using Docker.
 
 **Vidio — Discovery Page Team** *(May 2024 - Aug 2024)*
