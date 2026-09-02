@@ -21,7 +21,8 @@ I love playing Minecraft and occasionally build server-side Fabric mods ([modrin
 
 **[Minecraft Street View](https://github.com/potatotyper/Minecraft-Street-View)** — Maps and Street View, but for Minecraft. In Progress.
 
-**[Minecraft Mods Collection](https://github.com/potatotyper/minecraft-mods)** — Three server-side mods:
+**[Minecraft Mods Collection](https://github.com/potatotyper/minecraft-mods)** — Client and server-side mods:
+- **Extra Hotbar** — Displays an extra hotbar with quick swap functionality.
 - **Central Waypoints** — Global shared waypoints visible to all players
 - **No Elytra Mod** — Dimension-based Elytra restrictions
 - **Server Auto Click** — Automated attack/consumption features
